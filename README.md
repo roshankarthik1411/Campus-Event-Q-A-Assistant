@@ -55,3 +55,13 @@ This approach ensures flexibility and scalability while keeping the system simpl
 ---
 
 ## 📂 Project Structure
+Campus-Event-Q-A-Assistant/
+│
+├── main.py # Application entry point
+├── ask_assistant.py # Handles user queries and responses
+├── parser.py # Parses and processes user input
+├── config.py # Configuration handling
+├── prompt.txt # Prompt template for AI responses
+├── requirements.txt # Project dependencies
+├── .env.example # Environment variable template
+├── README.md # Project documentation
